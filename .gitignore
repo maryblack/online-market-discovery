@@ -200,3 +200,4 @@ data/
 # IDEA
 .idea
 .DS_Store
+.git
