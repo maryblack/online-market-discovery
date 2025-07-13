@@ -194,7 +194,10 @@ cython_debug/
 .cursorindexingignore
 
 # Input files
+data/
 .csv
 
 # IDEA
 .idea
+.DS_Store
+.git
