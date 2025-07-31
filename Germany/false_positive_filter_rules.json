@@ -1,0 +1,94 @@
+{
+  "non_shop_indicators": {
+    "blog": [
+      "blog",
+      "artikel",
+      "news",
+      "magazine",
+      "journal"
+    ],
+    "forum": [
+      "forum",
+      "community",
+      "discussion",
+      "board"
+    ],
+    "info": [
+      "info",
+      "information",
+      "guide",
+      "tutorial",
+      "howto",
+      "wiki"
+    ],
+    "comparison": [
+      "vergleich",
+      "compare",
+      "comparison",
+      "versus",
+      "test"
+    ],
+    "review": [
+      "review",
+      "bewertung",
+      "rating",
+      "testimonial"
+    ],
+    "service": [
+      "service",
+      "dienstleistung",
+      "beratung",
+      "consulting"
+    ],
+    "corporate": [
+      "gmbh",
+      "ag",
+      "company",
+      "firma",
+      "unternehmen",
+      "about"
+    ],
+    "portal": [
+      "portal",
+      "directory",
+      "verzeichnis",
+      "liste"
+    ]
+  },
+  "non_shop_url_patterns": [
+    "/blog/",
+    "/news/",
+    "/artikel/",
+    "/press/",
+    "/about/",
+    "/uber-uns/",
+    "/company/",
+    "/firma/",
+    "/contact/",
+    "/kontakt/",
+    "/impressum/",
+    "/datenschutz/",
+    "/forum/",
+    "/community/",
+    "/faq/",
+    "/help/",
+    "/wiki/",
+    "/docs/",
+    "/documentation/"
+  ],
+  "negative_keywords": [
+    "kostenlos",
+    "free",
+    "gratis",
+    "download",
+    "pdf",
+    "ebook",
+    "anleitung",
+    "tutorial",
+    "guide",
+    "nachrichten",
+    "news",
+    "aktuell"
+  ],
+  "threshold": 0.5
+}

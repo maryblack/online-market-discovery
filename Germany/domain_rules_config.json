@@ -1,0 +1,56 @@
+{
+  "ecommerce_platforms": [
+    "shopify",
+    "woocommerce",
+    "magento",
+    "prestashop",
+    "opencart",
+    "bigcommerce",
+    "wix",
+    "squarespace",
+    "ecwid",
+    "shopware"
+  ],
+  "strong_url_signals": [
+    "/shop/",
+    "/store/",
+    "/products/",
+    "/cart/",
+    "/checkout/",
+    "/kategorie/",
+    "/produkte/",
+    "/warenkorb/",
+    "/kasse/",
+    "/catalog/",
+    "/buy/",
+    "/order/",
+    "/bestellen/"
+  ],
+  "purchase_keywords": [
+    "add to cart",
+    "buy now",
+    "purchase",
+    "order online",
+    "in den warenkorb",
+    "jetzt kaufen",
+    "bestellen",
+    "online kaufen",
+    "price",
+    "preis",
+    "€",
+    "$",
+    "shipping",
+    "versand",
+    "delivery",
+    "lieferung",
+    "checkout",
+    "kasse"
+  ],
+  "shop_tlds": [
+    ".shop",
+    ".store",
+    ".kaufen",
+    ".shopping"
+  ],
+  "threshold": 0.3
+}

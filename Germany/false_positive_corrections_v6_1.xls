@@ -1,0 +1,596 @@
+domain,original_category,original_confidence,non_shop_score,signals,action
+1prospekte.de,Home & Garden,0.773170731707317,0.6,"corporate: ag, portal: portal",remove_classification
+25p.de,Electronics & Technology,0.36075,0.6,"blog: artikel, corporate: ag",remove_classification
+4kfilme.de,Electronics & Technology,0.8994219653179191,0.8,"forum: board, corporate: ag, Date/year in title",remove_classification
+abctoner.de,Fashion & Apparel,0.3076220779220779,0.8,"review: bewertung, corporate: ag, Date/year in title",remove_classification
+action.com,Fashion & Apparel,0.6507881889763779,0.6,"comparison: test, corporate: ag",remove_classification
+adventio.de,Sports & Outdoors,0.2022499999999999,0.5,"corporate: ag, Date/year in title",remove_classification
+airsoft-verzeichnis.de,Books & Media,0.3171642857142857,0.8999999999999999,"forum: forum, corporate: ag, portal: verzeichnis",remove_classification
+ais-online.de,Fashion & Apparel,0.2714999999999999,1.0,"blog: news, info: info, corporate: ag, URL pattern: /firma/, Multiple negative keywords (2)",remove_classification
+aisci.de,Sports & Outdoors,0.3171642857142857,0.8999999999999999,"comparison: test, service: service, portal: liste",remove_classification
+akd-ekbo.de,General Marketplace,0.3,0.5,"corporate: ag, Date/year in title",remove_classification
+akku-rasentrimmer-tests.de,General Marketplace,0.3,0.5,"comparison: vergleich, Date/year in title",remove_classification
+akku-wechsel.de,General Marketplace,0.8,0.8999999999999999,"blog: artikel, corporate: ag, portal: liste",remove_classification
+akkuservice-krueger.de,Home & Garden,0.2719342105263158,1.0,"comparison: vergleich, service: service, corporate: ag, portal: liste",remove_classification
+alamy.de,General Marketplace,0.7666666666666666,1.0,"blog: news, corporate: ag, Multiple negative keywords (2), Date/year in title",remove_classification
+alcamobil.de,Electronics & Technology,0.36075,0.6,"blog: artikel, review: bewertung",remove_classification
+aldi-nord.de,Food & Grocery,0.5,0.6,"info: info, service: service",remove_classification
+alldis.de,Electronics & Technology,0.6,1.0,"blog: artikel, info: info, service: service, corporate: gmbh, Date/year in title",remove_classification
+alokito71sangbad.com,Electronics & Technology,0.7193333333333333,1.0,"forum: board, corporate: ag, portal: liste, Multiple negative keywords (2), Date/year in title",remove_classification
+alphanodes.com,Beauty & Health,0.5281089743589744,0.8999999999999999,"blog: blog, comparison: test, corporate: ag",remove_classification
+americanfood4u.de,Food & Grocery,0.3618846153846153,0.6,"comparison: test, corporate: ag",remove_classification
+antic.com,Home & Garden,0.3093681818181818,0.6,"review: bewertung, corporate: ag",remove_classification
+anzeiger24.de,Electronics & Technology,0.8461397058823529,0.6,"blog: news, corporate: ag",remove_classification
+apaarchery.de,Electronics & Technology,0.5035042553191489,0.6,"info: info, corporate: ag",remove_classification
+apotheke-adhoc.de,Home & Garden,0.4343470149253731,0.8999999999999999,"blog: news, comparison: test, corporate: ag",remove_classification
+appcheck.mobilsicher.de,Beauty & Health,0.1985,0.8999999999999999,"comparison: test, service: service, corporate: gmbh",remove_classification
+appgefahren.de,General Marketplace,0.8,0.8,"comparison: test, corporate: ag, Date/year in title",remove_classification
+apt-browse.org,Fashion & Apparel,0.2461363636363636,1.0,"forum: board, corporate: ag, portal: liste, Non-commercial TLD",remove_classification
+ar.stihl.com,General Marketplace,0.3,0.8,"blog: journal, corporate: company, Date/year in title",remove_classification
+ardaudiothek.de,Sports & Outdoors,0.2795588235294117,0.6,"blog: journal, corporate: ag",remove_classification
+auctions.schloss-ahlden.de,General Marketplace,0.3,0.6,"service: service, corporate: ag",remove_classification
+audio-markt.de,General Marketplace,0.8,0.8999999999999999,"info: info, corporate: ag, portal: portal",remove_classification
+auto-lifestyle.de,Fashion & Apparel,0.2891066037735849,0.8,"comparison: vergleich, corporate: ag, Date/year in title",remove_classification
+auto-motor-reifen.de,Electronics & Technology,0.3474121495327102,0.8999999999999999,"blog: artikel, comparison: vergleich, corporate: ag",remove_classification
+auto-motor-und-sport.de,Fashion & Apparel,0.3521338028169014,0.5,"comparison: test, Date/year in title",remove_classification
+autocad-magazin.de,Books & Media,0.36075,0.8999999999999999,"blog: magazine, info: info, corporate: ag",remove_classification
+autopartscatalogue.net,General Marketplace,0.3,0.5,"info: info, Date/year in title",remove_classification
+autoteileprofi.de,Fashion & Apparel,0.5,0.6,"blog: artikel, corporate: ag",remove_classification
+autouncle.de,Food & Grocery,0.3180987804878049,0.8,"review: bewertung, corporate: ag, Date/year in title",remove_classification
+b2b.hutter-buero.de,Fashion & Apparel,0.6746829787234042,0.6,"blog: artikel, service: service",remove_classification
+b2bshop.it-haus.com,Electronics & Technology,0.843236074270557,1.0,"blog: artikel, info: info, comparison: vergleich, review: review, corporate: ag",remove_classification
+bauking.de,Books & Media,0.4364342105263158,0.6,"blog: artikel, corporate: ag",remove_classification
+bavarikon.de,General Marketplace,0.8,0.6,"corporate: ag, portal: portal",remove_classification
+baywa.de,Home & Garden,0.4164636363636363,1.0,"blog: news, review: bewertung, service: service, corporate: ag, portal: liste, Multiple negative keywords (2)",remove_classification
+bedienungsanleitung24.de,Electronics & Technology,0.5,0.8999999999999999,"forum: community, corporate: ag, Multiple negative keywords (3)",remove_classification
+beilstein-journals.org,Sports & Outdoors,0.2146818181818181,1.0,"blog: journal, review: review, corporate: ag, Non-commercial TLD",remove_classification
+beisel.greenbase-fachhaendler.de,General Marketplace,0.5,0.6,"comparison: vergleich, corporate: ag",remove_classification
+bequiet.com,Electronics & Technology,0.4066060240963854,0.8999999999999999,"comparison: comparison, review: review, corporate: gmbh",remove_classification
+bestereviews.de,General Marketplace,0.8,1.0,"blog: blog, review: review, corporate: ag, Date/year in title",remove_classification
+better-tomorrow.info,Home & Garden,0.36075,1.0,"info: info, comparison: vergleich, corporate: ag, Date/year in title",remove_classification
+billiger.de,Electronics & Technology,0.788097713097713,1.0,"blog: artikel, forum: board, info: info, comparison: vergleich, review: bewertung, service: service, corporate: gmbh, portal: liste, Multiple negative keywords (3), Date/year in title",remove_classification
+bioplasticsmagazine.com,Electronics & Technology,0.1831911764705882,1.0,"blog: news, corporate: ag, URL pattern: /news/",remove_classification
+blauer-engel.de,General Marketplace,0.8,1.0,"blog: news, info: info, service: service, corporate: gmbh, portal: portal, Multiple negative keywords (3)",remove_classification
+blumen-heilig.de,Home & Garden,0.3478513513513513,1.0,"blog: artikel, corporate: ag, URL pattern: /artikel/",remove_classification
+boell.de,General Marketplace,0.3,0.8999999999999999,"blog: news, corporate: ag, Multiple negative keywords (2)",remove_classification
+bondic.bauhaus.info,Fashion & Apparel,0.3051203703703704,0.6,"info: info, corporate: ag",remove_classification
+bonedo.de,Electronics & Technology,0.848068669527897,1.0,"blog: artikel, info: info, comparison: vergleich, review: bewertung, corporate: ag, URL pattern: /artikel/, Multiple negative keywords (2)",remove_classification
+booking.com,Sports & Outdoors,0.3171642857142857,0.5,"service: service, Date/year in title",remove_classification
+bosch-professional.com,Electronics & Technology,0.5035042553191489,0.8999999999999999,"comparison: vergleich, service: service, corporate: ag",remove_classification
+bpemb.h-its.org,General Marketplace,0.3,1.0,"info: wiki, corporate: ag, portal: portal, Non-commercial TLD",remove_classification
+braun.de,Fashion & Apparel,0.3257083333333333,0.8999999999999999,"blog: news, info: info, comparison: test",remove_classification
+brillen-linsen.com,General Marketplace,0.3,0.6,"comparison: vergleich, corporate: ag",remove_classification
+buegeleisen-test.info,Books & Media,0.3919730769230769,0.6,"info: info, comparison: vergleich",remove_classification
+buero-bedarf-thueringen.de,Electronics & Technology,0.7688953488372092,1.0,"blog: news, forum: board, info: info, comparison: vergleich, corporate: gmbh, portal: liste, Multiple negative keywords (4), Date/year in title",remove_classification
+bueromarkt.info,Electronics & Technology,0.3919730769230769,0.8999999999999999,"blog: artikel, info: info, corporate: ag",remove_classification
+bz-berlin.de,Books & Media,0.2260833333333333,0.6,"comparison: test, corporate: ag",remove_classification
+canon.de,Electronics & Technology,0.6025833333333334,1.0,"info: info, service: service, corporate: ag, Multiple negative keywords (2)",remove_classification
+carat-gruppe.de,Fashion & Apparel,0.3017521276595745,0.6,"corporate: ag, Multiple negative keywords (2)",remove_classification
+carhifi-magazin.de,Books & Media,0.2448214285714285,0.8999999999999999,"comparison: test, corporate: ag, portal: liste",remove_classification
+casalist.de,Home & Garden,0.8294964028776978,0.8999999999999999,"blog: artikel, forum: board, corporate: ag",remove_classification
+casino-forum.net,General Marketplace,0.8,1.0,"blog: magazine, forum: forum, info: info, comparison: test, corporate: ag, portal: portal, Multiple negative keywords (4)",remove_classification
+changing-transport.org,Sports & Outdoors,0.2746944444444444,0.8,"info: info, Non-commercial TLD",remove_classification
+channelpartner.de,Electronics & Technology,0.5942959770114943,0.6,"blog: artikel, comparison: test",remove_classification
+chemanager-online.com,General Marketplace,0.3,1.0,"blog: news, corporate: ag, URL pattern: /news/",remove_classification
+china-gadgets.de,Electronics & Technology,0.6245788051209104,0.8999999999999999,"comparison: test, review: review, corporate: ag",remove_classification
+chrono24.de,Electronics & Technology,0.4407308411214953,1.0,"blog: artikel, info: info, comparison: vergleich, service: service, corporate: ag, Multiple negative keywords (2)",remove_classification
+ciando.com,Books & Media,0.2260833333333333,0.6,"corporate: ag, portal: verzeichnis",remove_classification
+cine-five.de,General Marketplace,0.3,0.8999999999999999,"blog: news, info: info, Multiple negative keywords (2)",remove_classification
+classic.obeta.de,General Marketplace,0.3,0.6,"blog: artikel, corporate: gmbh",remove_classification
+clever.horn-onlineshop.de,Electronics & Technology,0.8358267716535432,0.6,"blog: artikel, corporate: ag",remove_classification
+club.bild.de,Sports & Outdoors,0.2746944444444444,0.8999999999999999,"info: info, service: service, portal: portal",remove_classification
+colons.de,General Marketplace,0.7666666666666666,1.0,"blog: artikel, info: info, corporate: ag, Multiple negative keywords (2)",remove_classification
+communitycorals.de,General Marketplace,0.8,0.8999999999999999,"blog: blog, forum: community, corporate: ag",remove_classification
+company.rtl.com,Electronics & Technology,0.4607857142857142,0.8,"corporate: ag, Multiple negative keywords (2), Date/year in title",remove_classification
+computer-store.de,Electronics & Technology,0.95,0.6,"forum: board, corporate: ag",remove_classification
+computerbase.de,Electronics & Technology,0.8336633663366336,1.0,"blog: artikel, forum: forum, info: info, comparison: vergleich, service: service, corporate: ag, portal: liste, Multiple negative keywords (3), Date/year in title",remove_classification
+computerwoche.de,Electronics & Technology,0.8408163265306122,1.0,"info: wiki, comparison: test, service: service, corporate: ag, Date/year in title",remove_classification
+connect-living.de,Electronics & Technology,0.8369294605809129,1.0,"blog: news, comparison: vergleich, corporate: ag, portal: liste, Multiple negative keywords (5)",remove_classification
+connect.de,Electronics & Technology,0.95,1.0,"comparison: test, corporate: ag, portal: liste, Multiple negative keywords (3), Date/year in title",remove_classification
+consumer.huawei.com,Electronics & Technology,0.641253125,0.6,"forum: board, corporate: ag",remove_classification
+crosli.de,General Marketplace,0.3,0.8,"blog: blog, corporate: ag, Date/year in title",remove_classification
+csisa.org,Food & Grocery,0.2746944444444444,0.8,"corporate: ag, Non-commercial TLD",remove_classification
+ctt.de,Electronics & Technology,0.703983644859813,0.8999999999999999,"blog: artikel, service: service, corporate: ag",remove_classification
+cvmaker.de,Electronics & Technology,0.2584772727272727,0.8999999999999999,"comparison: test, service: service, corporate: ag",remove_classification
+cyberleninka.org,Fashion & Apparel,0.6550192124105012,1.0,"blog: journal, forum: community, info: info, comparison: comparison, review: review, service: service, corporate: ag, Multiple negative keywords (4), Non-commercial TLD, Date/year in title",remove_classification
+dailypioneer.com,General Marketplace,0.8,1.0,"blog: journal, info: guide, corporate: ag, Multiple negative keywords (2)",remove_classification
+dalhoff24.de,Food & Grocery,0.3171642857142857,1.0,"blog: artikel, comparison: test, corporate: ag, Date/year in title",remove_classification
+darc.de,Beauty & Health,0.5954474522292994,1.0,"info: info, corporate: ag, portal: liste, Date/year in title",remove_classification
+datacenter-insider.de,Electronics & Technology,0.2746944444444444,0.8999999999999999,"blog: news, corporate: gmbh, Multiple negative keywords (3)",remove_classification
+dblp.org,General Marketplace,0.8,1.0,"blog: journal, info: info, comparison: test, review: review, service: service, corporate: ag, Non-commercial TLD, Date/year in title",remove_classification
+de-bedienungsanleitung.de,Electronics & Technology,0.7986842105263158,1.0,"info: info, review: bewertung, corporate: ag, Multiple negative keywords (3)",remove_classification
+de.camelcamelcamel.com,Electronics & Technology,0.8589403973509934,0.8999999999999999,"corporate: gmbh, portal: liste, Multiple negative keywords (2)",remove_classification
+de.linkedin.com,Electronics & Technology,0.7906133828996282,1.0,"blog: artikel, forum: board, info: info, comparison: test, review: bewertung, service: service, corporate: gmbh, portal: portal, Multiple negative keywords (4), Date/year in title",remove_classification
+de.mathworks.com,Electronics & Technology,0.5,0.6,"blog: blog, comparison: test",remove_classification
+de.milwaukeetool.eu,Electronics & Technology,0.3618846153846153,0.6,"review: bewertung, corporate: ag",remove_classification
+de.montagepartner.reifen-anton.de,General Marketplace,0.3,0.6,"info: info, corporate: ag",remove_classification
+de.rubix.com,Electronics & Technology,0.3230306122448979,0.5,"corporate: ag, Date/year in title",remove_classification
+de.scribd.com,Electronics & Technology,0.7550391389432485,1.0,"blog: artikel, forum: board, info: info, comparison: test, review: review, service: service, corporate: gmbh, portal: portal, Multiple negative keywords (6), Date/year in title",remove_classification
+de.subwoofer.net,Electronics & Technology,0.3607857142857142,0.5,"comparison: test, Date/year in title",remove_classification
+dealdoktor.de,Electronics & Technology,0.8171454219030521,1.0,"blog: artikel, comparison: vergleich, review: bewertung, service: beratung, Multiple negative keywords (5), Date/year in title",remove_classification
+dejure.org,General Marketplace,0.3,0.7,"Non-commercial TLD, Date/year in title",remove_classification
+demokratisch-links.de,Home & Garden,0.3439025974025974,0.8,"blog: blog, corporate: ag, Date/year in title",remove_classification
+depot7.de,General Marketplace,0.3,0.6,"blog: artikel, corporate: ag",remove_classification
+destatis.de,Books & Media,0.2217857142857143,0.8,"corporate: ag, portal: verzeichnis, Date/year in title",remove_classification
+dewalt.de,General Marketplace,0.3,0.6,"info: info, corporate: ag",remove_classification
+dgs-ev.de,Books & Media,0.3988869918699187,0.6,"info: wiki, corporate: ag",remove_classification
+digital.zlb.de,Electronics & Technology,0.2267625,1.0,"info: info, corporate: firma, portal: liste, Date/year in title",remove_classification
+digitalzimmer.de,Home & Garden,0.3567941176470588,1.0,"blog: artikel, comparison: test, corporate: ag, URL pattern: /artikel/",remove_classification
+digra.org,Electronics & Technology,0.4059318181818181,1.0,"forum: forum, corporate: ag, Non-commercial TLD, Date/year in title",remove_classification
+dimaxa.de,Fashion & Apparel,0.3919730769230769,0.8999999999999999,"comparison: vergleich, corporate: ag, portal: liste",remove_classification
+dinafem.org,General Marketplace,0.3,0.5,Non-commercial TLD,remove_classification
+discounto.de,Electronics & Technology,0.7621636167922496,1.0,"blog: artikel, forum: board, info: info, comparison: vergleich, service: service, corporate: ag, Multiple negative keywords (3)",remove_classification
+divessi.com,Sports & Outdoors,0.3607857142857142,1.0,"info: guide, service: service, corporate: ag, Multiple negative keywords (2)",remove_classification
+docplayer.net,Electronics & Technology,0.7734854151084517,1.0,"blog: news, forum: forum, info: info, comparison: compare, review: review, service: service, corporate: gmbh, portal: portal, Multiple negative keywords (7), Date/year in title",remove_classification
+docserv.uni-duesseldorf.de,General Marketplace,0.7,0.6,"info: info, corporate: ag",remove_classification
+donkeypc.de,Electronics & Technology,0.815791610738255,0.6,"blog: artikel, corporate: ag",remove_classification
+drohnen-vergleich.net,Electronics & Technology,0.36075,0.8999999999999999,"blog: artikel, info: info, comparison: vergleich",remove_classification
+drohnen.de,Electronics & Technology,0.7763421052631578,0.6,"comparison: vergleich, corporate: ag",remove_classification
+druckertester.de,Home & Garden,0.29505,0.6,"comparison: test, corporate: ag",remove_classification
+dtjournal.org,General Marketplace,0.3,1.0,"blog: journal, corporate: ag, Non-commercial TLD",remove_classification
+duepublico2.uni-due.de,Fashion & Apparel,0.3326,0.8999999999999999,"info: guide, corporate: ag, Multiple negative keywords (2)",remove_classification
+dwj.de,Books & Media,0.4365965517241379,0.6,"blog: artikel, corporate: ag",remove_classification
+earlygame.com,Electronics & Technology,0.5035042553191489,0.8999999999999999,"blog: news, URL pattern: /news/, Date/year in title",remove_classification
+ebay-kleinanzeigen.de,Electronics & Technology,0.95,0.6,"forum: board, corporate: ag",remove_classification
+ecfaweb.org,Home & Garden,0.3919730769230769,1.0,"blog: journal, info: info, Non-commercial TLD",remove_classification
+eclectica.org,Fashion & Apparel,0.1704166666666666,1.0,"blog: magazine, review: review, service: service, corporate: ag, Non-commercial TLD, Date/year in title",remove_classification
+efahrer.chip.de,Electronics & Technology,0.3804285714285714,1.0,"blog: news, comparison: test, corporate: ag, URL pattern: /news/, Multiple negative keywords (2)",remove_classification
+electroplus-augsburg.de,Fashion & Apparel,0.5,1.0,"blog: artikel, comparison: vergleich, service: service, corporate: ag, portal: liste",remove_classification
+elektro-goettert.de,Electronics & Technology,0.8009975062344139,1.0,"blog: artikel, info: info, comparison: vergleich, corporate: gmbh, Date/year in title",remove_classification
+elektro-pierednik.de,General Marketplace,0.7666666666666666,0.8999999999999999,"info: info, service: service, corporate: ag",remove_classification
+elektro-wandelt.de,Electronics & Technology,0.5323335443037974,0.8999999999999999,"blog: artikel, review: bewertung, corporate: ag",remove_classification
+elektroauto-forum.de,Home & Garden,0.3919730769230769,0.6,"forum: forum, corporate: ag",remove_classification
+elektrowerkzeug.net,Electronics & Technology,0.3025603448275862,1.0,"blog: artikel, info: info, review: bewertung, corporate: ag",remove_classification
+elib.dlr.de,Electronics & Technology,0.8146496815286624,1.0,"blog: journal, info: info, comparison: test, service: service, corporate: ag, Date/year in title",remove_classification
+ellenwoods-shop.de,General Marketplace,0.8,0.6,"service: service, corporate: ag",remove_classification
+elternfragen.net,General Marketplace,0.3,0.8999999999999999,"forum: forum, comparison: test, corporate: ag",remove_classification
+elternkompass.de,Home & Garden,0.3147129629629629,0.8999999999999999,"comparison: vergleich, corporate: ag, portal: liste",remove_classification
+en.wheelsage.org,General Marketplace,0.3,0.8,"corporate: ag, Non-commercial TLD",remove_classification
+enbw.com,Books & Media,0.4578843925233644,0.6,"info: info, Multiple negative keywords (2)",remove_classification
+enocean-alliance.org,Books & Media,0.2260833333333333,1.0,"info: guide, corporate: ag, Multiple negative keywords (2), Non-commercial TLD",remove_classification
+environmentandsociety.org,Home & Garden,0.2838,1.0,"blog: journal, corporate: ag, Non-commercial TLD",remove_classification
+epal-pallets.org,General Marketplace,0.3,0.5,Non-commercial TLD,remove_classification
+epic.awi.de,General Marketplace,0.8,1.0,"blog: blog, info: info, review: review, service: service, corporate: ag, portal: liste, Multiple negative keywords (4), Date/year in title",remove_classification
+epub.uni-regensburg.de,Fashion & Apparel,0.5,1.0,"blog: blog, info: info, comparison: test, corporate: ag, Date/year in title",remove_classification
+ersatzteilblitz.de,Electronics & Technology,0.6573010471204188,0.8999999999999999,"blog: artikel, corporate: ag, portal: liste",remove_classification
+ersatzteile-onlineshop.de,Electronics & Technology,0.359301724137931,0.8999999999999999,"blog: artikel, corporate: ag, portal: liste",remove_classification
+ersatzteilplan.de,Fashion & Apparel,0.3180987804878049,1.0,"blog: artikel, info: info, corporate: ag, portal: liste, Date/year in title",remove_classification
+eshop.max-schoen.de,Electronics & Technology,0.2584772727272727,0.8999999999999999,"blog: artikel, comparison: vergleich, corporate: gmbh",remove_classification
+etest.de,Electronics & Technology,0.6839595744680851,0.6,"comparison: test, corporate: ag",remove_classification
+europages.de,Fashion & Apparel,0.9463884615384616,0.6,"service: service, corporate: gmbh",remove_classification
+eve.de,Fashion & Apparel,0.3919730769230769,0.6,"corporate: gmbh, portal: liste",remove_classification
+expertentesten.de,Home & Garden,0.8044921875,1.0,"info: info, comparison: vergleich, corporate: ag, Date/year in title",remove_classification
+extreme.pcgameshardware.de,Electronics & Technology,0.8218749999999999,1.0,"blog: artikel, forum: forum, comparison: vergleich, review: review, service: beratung, corporate: ag, portal: liste, Multiple negative keywords (4), Date/year in title",remove_classification
+faber-castell.com,Electronics & Technology,0.1831911764705882,1.0,"forum: board, info: info, corporate: company, portal: liste, Date/year in title",remove_classification
+fashiola.de,Fashion & Apparel,0.95,0.6,"blog: artikel, comparison: vergleich",remove_classification
+fashn.de,Fashion & Apparel,0.7675315789473683,1.0,"blog: artikel, forum: community, corporate: ag, Multiple negative keywords (2)",remove_classification
+faz.net,Electronics & Technology,0.8198083067092651,1.0,"blog: news, info: info, comparison: vergleich, corporate: ag, Multiple negative keywords (3), Date/year in title",remove_classification
+fehler.greenbase-fachhaendler.de,Home & Garden,0.5,0.8999999999999999,"blog: artikel, comparison: vergleich, corporate: ag",remove_classification
+fh-kiel.de,Beauty & Health,0.57825,0.8,"corporate: ag, Multiple negative keywords (2), Date/year in title",remove_classification
+fibl.org,Beauty & Health,0.5186984126984127,1.0,"corporate: ag, portal: liste, Non-commercial TLD",remove_classification
+fidelity-online.de,Electronics & Technology,0.7515766467065867,0.6,"blog: news, corporate: ag",remove_classification
+fifa4life-forum.de,Fashion & Apparel,0.7701643489254109,1.0,"blog: news, forum: forum, info: info, comparison: test, review: review, service: service, corporate: ag, portal: liste, Multiple negative keywords (7)",remove_classification
+filmundtvkamera.de,Electronics & Technology,0.6324019230769231,0.8,"forum: board, corporate: gmbh, Date/year in title",remove_classification
+firmenpresse.de,General Marketplace,0.8,0.8999999999999999,"service: service, corporate: gmbh, portal: portal",remove_classification
+focus.de,Electronics & Technology,0.8029850746268656,1.0,"comparison: vergleich, service: service, corporate: ag, Date/year in title",remove_classification
+fondsdocs.edisoft.de,General Marketplace,0.8,0.6,"info: info, corporate: ag",remove_classification
+foto-kammerlander.de,Electronics & Technology,0.4420326086956522,0.6,"service: service, corporate: ag",remove_classification
+fotocommunity.de,General Marketplace,0.5,0.8999999999999999,"forum: forum, comparison: vergleich, corporate: ag",remove_classification
+fotohits.de,Electronics & Technology,0.4240142857142857,1.0,"blog: artikel, comparison: test, corporate: ag, URL pattern: /news/, Multiple negative keywords (2)",remove_classification
+freenet.tv,Electronics & Technology,0.3025603448275862,0.6,"blog: news, Multiple negative keywords (2)",remove_classification
+freizeitland-simon.de,Fashion & Apparel,0.3919730769230769,0.5,"corporate: ag, Date/year in title",remove_classification
+friseur-and-beauty.de,Beauty & Health,0.2260833333333333,1.0,"blog: news, corporate: ag, URL pattern: /news/",remove_classification
+fsv.lai.de,Fashion & Apparel,0.219670731707317,0.6,"info: info, corporate: ag",remove_classification
+funkyhome.de,Home & Garden,0.1831911764705882,0.6,"comparison: test, corporate: ag",remove_classification
+gamerpc.de,Electronics & Technology,0.3919730769230769,0.8999999999999999,"info: info, review: bewertung, corporate: ag",remove_classification
+gamesaktuell.de,Electronics & Technology,0.4676,1.0,"blog: news, forum: community, comparison: test, review: review, corporate: ag, URL pattern: /news/, Multiple negative keywords (2)",remove_classification
+gartano.de,Electronics & Technology,0.3017521276595745,0.6,"comparison: vergleich, corporate: ag",remove_classification
+gartenfachmarkt-wassenberg.de,Fashion & Apparel,0.6481586572438163,0.6,"review: bewertung, corporate: ag",remove_classification
+gartenforum.de,Home & Garden,0.5035042553191489,0.8999999999999999,"forum: forum, info: info, comparison: vergleich",remove_classification
+gartentechnik-schmalkalden.de,Fashion & Apparel,0.7273676322418136,0.6,"comparison: test, corporate: ag",remove_classification
+gebhard-gehring.de,Electronics & Technology,0.3017521276595745,0.5,"corporate: ag, Date/year in title",remove_classification
+gebrauchte-veranstaltungstechnik.de,Electronics & Technology,0.7354044776119403,0.6,"blog: artikel, corporate: ag",remove_classification
+gebrauchtmaschinen.de,General Marketplace,0.8,0.8999999999999999,"forum: board, info: info, corporate: ag",remove_classification
+gebrmayer.de,Fashion & Apparel,0.3180987804878049,0.8,"blog: artikel, corporate: ag, Date/year in title",remove_classification
+gegen-missbrauch.de,Electronics & Technology,0.2298333333333333,0.6,"corporate: ag, Multiple negative keywords (2)",remove_classification
+geilekarre.de,Beauty & Health,0.4084612903225806,0.6,"comparison: test, corporate: ag",remove_classification
+geitmann.de,General Marketplace,0.7666666666666666,0.8,"review: bewertung, corporate: ag, Date/year in title",remove_classification
+geizhals.de,Electronics & Technology,0.7793941411451398,1.0,"blog: artikel, forum: board, info: info, comparison: vergleich, review: bewertung, corporate: ag, portal: liste, Multiple negative keywords (5), Date/year in title",remove_classification
+geo.de,Sports & Outdoors,0.4021930232558139,0.5,"comparison: vergleich, Date/year in title",remove_classification
+geobrugg.com,Electronics & Technology,0.3919730769230769,0.8,"forum: forum, Multiple negative keywords (2), Date/year in title",remove_classification
+geschaeftskunden.telekom.de,Fashion & Apparel,0.2838,0.6,"service: service, corporate: ag",remove_classification
+gew-nds.de,Home & Garden,0.19125,1.0,"blog: news, corporate: ag, Multiple negative keywords (3), Date/year in title",remove_classification
+giga.de,Electronics & Technology,0.95,1.0,"blog: news, comparison: test, corporate: ag, portal: liste, URL pattern: /news/, Multiple negative keywords (3), Date/year in title",remove_classification
+gigabyte.com,Electronics & Technology,0.5,1.0,"blog: news, forum: board, comparison: vergleich, corporate: ag, portal: liste, URL pattern: /news/, Date/year in title",remove_classification
+gigaset.com,Electronics & Technology,0.5,1.0,"comparison: vergleich, review: bewertung, service: service, corporate: ag, portal: liste, Multiple negative keywords (2)",remove_classification
+gitlab.opengapps.org,Electronics & Technology,0.2746944444444444,0.8,"corporate: ag, Non-commercial TLD",remove_classification
+global.techradar.com,Electronics & Technology,0.8305460750853242,1.0,"blog: artikel, comparison: test, corporate: ag, Multiple negative keywords (2), Date/year in title",remove_classification
+golem.de,Electronics & Technology,0.8615755627009646,1.0,"blog: news, service: service, corporate: ag, Multiple negative keywords (2), Date/year in title",remove_classification
+grafiati.com,Electronics & Technology,0.5,0.8999999999999999,"blog: journal, corporate: ag, Multiple negative keywords (3)",remove_classification
+grafikkarten.com,General Marketplace,0.8,0.6,"review: review, corporate: about",remove_classification
+grafiktablett.net,Electronics & Technology,0.3408333333333333,0.5,"comparison: test, Date/year in title",remove_classification
+grimm-weinheim.de,Fashion & Apparel,0.2747274193548387,0.6,"blog: artikel, corporate: gmbh",remove_classification
+gsmarena.com,Electronics & Technology,0.8591836734693877,1.0,"blog: news, forum: forum, comparison: compare, review: review, corporate: ag, Date/year in title",remove_classification
+gutscheine.faz.net,General Marketplace,0.3,0.5,"forum: board, Date/year in title",remove_classification
+h-cinema.de,General Marketplace,0.7666666666666666,0.8999999999999999,"blog: artikel, info: info, corporate: ag",remove_classification
+h-its.org,General Marketplace,0.3,0.8,"corporate: ag, Non-commercial TLD",remove_classification
+hagebau.com,General Marketplace,0.3,0.6,"service: service, corporate: ag",remove_classification
+hai-end.com,Electronics & Technology,0.3900605633802817,0.8999999999999999,"blog: artikel, service: service, corporate: ag",remove_classification
+hansa-flex.de,General Marketplace,0.8,0.8,"info: info, corporate: ag, Date/year in title",remove_classification
+hardwareluxx.de,Electronics & Technology,0.8293577981651375,1.0,"blog: artikel, forum: forum, info: info, comparison: vergleich, review: review, service: beratung, corporate: ag, URL pattern: /community/, Multiple negative keywords (6), Date/year in title",remove_classification
+hauff-technik.de,Electronics & Technology,0.3447105263157894,0.6,"info: info, portal: liste",remove_classification
+haushaltsmarktplatz.de,General Marketplace,0.8,0.6,"info: info, review: bewertung",remove_classification
+hbm-service.de,General Marketplace,0.3,0.6,"service: service, corporate: ag",remove_classification
+hcinema.de,General Marketplace,0.7666666666666666,1.0,"blog: artikel, info: info, review: bewertung, corporate: ag",remove_classification
+hecht-kontaktlinsen.de,Fashion & Apparel,0.29505,0.6,"corporate: gmbh, portal: liste",remove_classification
+heidelberg.com,Books & Media,0.5,0.8999999999999999,"blog: news, corporate: ag, Multiple negative keywords (2)",remove_classification
+heimkinocheck.de,Electronics & Technology,0.54725,1.0,"info: guide, comparison: vergleich, service: service, Date/year in title",remove_classification
+heimschrauber.de,General Marketplace,0.3,0.6,"review: bewertung, corporate: ag",remove_classification
+heimwerker.de,Home & Garden,0.50335,0.6,"comparison: vergleich, corporate: ag",remove_classification
+heinze.de,Fashion & Apparel,0.5801968944099378,0.8999999999999999,"blog: news, corporate: gmbh, Multiple negative keywords (5)",remove_classification
+heise.de,Electronics & Technology,0.8057879377431906,1.0,"blog: artikel, forum: forum, comparison: vergleich, review: bewertung, corporate: ag, portal: liste, Multiple negative keywords (7), Date/year in title",remove_classification
+hellodeals.de,Electronics & Technology,0.95,1.0,"blog: artikel, comparison: vergleich, corporate: ag, Multiple negative keywords (3), Date/year in title",remove_classification
+heni-werkzeuge.de,Home & Garden,0.3025603448275862,0.8999999999999999,"blog: artikel, review: bewertung, corporate: ag",remove_classification
+henka.de,General Marketplace,0.8,0.6,"blog: artikel, corporate: ag",remove_classification
+hierkaufen24.de,Electronics & Technology,0.4607857142857142,0.6,"service: service, corporate: ag",remove_classification
+hifi-schluderbacher.de,General Marketplace,0.7666666666666666,0.8999999999999999,"blog: magazine, corporate: ag, portal: portal",remove_classification
+hifi.de,Electronics & Technology,0.95,1.0,"info: info, comparison: vergleich, service: beratung, corporate: ag, Date/year in title",remove_classification
+hifistatement.net,Books & Media,0.19125,0.8,"blog: magazine, corporate: ag, Date/year in title",remove_classification
+hlportal.de,General Marketplace,0.3,0.6,"forum: community, portal: portal",remove_classification
+hoelzle.greenbase-fachhaendler.de,Electronics & Technology,0.5035042553191489,0.6,"comparison: vergleich, corporate: gmbh",remove_classification
+hoergeraete-direkt.de,General Marketplace,0.7666666666666666,0.8999999999999999,"blog: artikel, service: service, corporate: ag",remove_classification
+hoergeraete-kaefertal.de,Electronics & Technology,0.3478513513513513,0.6,"service: service, portal: liste",remove_classification
+hoerspiel-paradies.de,Sports & Outdoors,0.7648710166919575,1.0,"blog: blog, forum: forum, info: guide, comparison: test, review: review, service: service, corporate: ag, Multiple negative keywords (7)",remove_classification
+hohenschwangau.de,General Marketplace,0.3,0.6,"info: info, service: service",remove_classification
+holidaycheck.de,General Marketplace,0.3,0.8999999999999999,"info: info, review: bewertung, corporate: ag",remove_classification
+home.kuehne-nagel.com,Home & Garden,0.3180987804878049,0.5,"corporate: ag, Date/year in title",remove_classification
+homeandsmart.de,Electronics & Technology,0.9435310858143608,1.0,"comparison: vergleich, review: bewertung, service: service, corporate: ag, Multiple negative keywords (2), Date/year in title",remove_classification
+homematic-ip.com,Fashion & Apparel,0.5352345679012346,0.6,"blog: artikel, Multiple negative keywords (2)",remove_classification
+horizont.net,Electronics & Technology,0.2811896551724138,0.8999999999999999,"blog: news, corporate: ag, portal: portal",remove_classification
+hs-osnabrueck.de,General Marketplace,0.5,0.6,"info: wiki, review: bewertung",remove_classification
+hwb.online,Books & Media,0.2022499999999999,0.8,"blog: news, Multiple negative keywords (2), Date/year in title",remove_classification
+hwhardsoft.de,Fashion & Apparel,0.3919730769230769,0.6,"info: info, corporate: gmbh",remove_classification
+hyundai.schade.de,General Marketplace,0.3,0.6,"comparison: vergleich, corporate: gmbh",remove_classification
+i-love-tec.de,Electronics & Technology,0.8127213322091061,0.8999999999999999,"blog: artikel, comparison: vergleich, corporate: ag",remove_classification
+idealo.de,Electronics & Technology,0.765701844262295,1.0,"blog: artikel, forum: board, info: tutorial, comparison: vergleich, review: bewertung, corporate: gmbh, portal: liste, Multiple negative keywords (7), Date/year in title",remove_classification
+ident.de,Fashion & Apparel,0.7556348074179743,1.0,"blog: news, info: wiki, comparison: vergleich, review: review, corporate: gmbh, Multiple negative keywords (6), Date/year in title",remove_classification
+idm.de,Beauty & Health,0.7891028347406513,1.0,"blog: news, forum: forum, info: guide, comparison: compare, review: review, service: service, corporate: ag, portal: liste, Multiple negative keywords (7), Date/year in title",remove_classification
+ids-pub.bsz-bw.de,Fashion & Apparel,0.2582318181818182,0.8999999999999999,"forum: forum, info: info, corporate: ag",remove_classification
+igorslab.de,Electronics & Technology,0.7888167300380227,1.0,"blog: news, forum: community, comparison: vergleich, review: review, corporate: ag, portal: liste, URL pattern: /community/, Multiple negative keywords (3)",remove_classification
+ijonte.org,Fashion & Apparel,0.2461363636363636,1.0,"blog: journal, corporate: ag, Non-commercial TLD",remove_classification
+implisense.com,Fashion & Apparel,0.3400499999999999,0.6,"service: service, corporate: gmbh",remove_classification
+induktionskochfeld.org,General Marketplace,0.3,1.0,"comparison: vergleich, Non-commercial TLD, Date/year in title",remove_classification
+induktiontopfset.de,General Marketplace,0.3,1.0,"info: info, comparison: test, corporate: gmbh, Date/year in title",remove_classification
+infoboard.de,Fashion & Apparel,0.7560931263858093,1.0,"forum: board, info: info, comparison: test, corporate: ag",remove_classification
+inline-info.com,Electronics & Technology,0.631028947368421,1.0,"info: info, comparison: vergleich, corporate: ag, Multiple negative keywords (2)",remove_classification
+inn-tools.de,Food & Grocery,0.3017521276595745,0.6,"info: info, corporate: ag",remove_classification
+inside-digital.de,Electronics & Technology,0.856312625250501,1.0,"info: info, comparison: test, corporate: ag, Date/year in title",remove_classification
+insideperformance.de,Beauty & Health,0.3611260869565217,0.6,"comparison: test, corporate: ag",remove_classification
+iopscience.iop.org,Electronics & Technology,0.6053771653543306,1.0,"blog: journal, info: guide, comparison: comparison, review: review, corporate: ag, Multiple negative keywords (4), Non-commercial TLD, Date/year in title",remove_classification
+ircenter.handelsblatt.com,Sports & Outdoors,0.3025603448275862,1.0,"info: info, corporate: gmbh, Multiple negative keywords (2), Date/year in title",remove_classification
+issgesund.de,Food & Grocery,0.5,1.0,"blog: news, comparison: test, corporate: ag, Multiple negative keywords (2)",remove_classification
+it-journal.de,Electronics & Technology,0.95,0.8,"blog: journal, corporate: ag, Date/year in title",remove_classification
+it-planet.com,General Marketplace,0.8,0.6,"review: review, corporate: ag",remove_classification
+janischfineart.com,Fashion & Apparel,0.7174835640138408,0.8,"review: bewertung, corporate: ag, Date/year in title",remove_classification
+japcc.org,General Marketplace,0.3,1.0,"blog: news, Multiple negative keywords (2), Non-commercial TLD",remove_classification
+jedewoche-rabatte.de,Home & Garden,0.5,1.0,"blog: artikel, corporate: ag, Multiple negative keywords (2), Date/year in title",remove_classification
+jidmr.com,Beauty & Health,0.5430909090909091,0.8,"blog: journal, corporate: ag, Date/year in title",remove_classification
+jobrad.org,Fashion & Apparel,0.2708192307692307,1.0,"info: info, portal: portal, Non-commercial TLD",remove_classification
+jobware.de,Fashion & Apparel,0.2260833333333333,0.8,"corporate: gmbh, portal: portal, Date/year in title",remove_classification
+johschool.com,General Marketplace,0.3,0.6,"blog: journal, info: info",remove_classification
+jung.greenbase-fachhaendler.de,General Marketplace,0.3,0.8999999999999999,"info: info, comparison: vergleich, corporate: ag",remove_classification
+justanswer.de,Electronics & Technology,0.95,0.8999999999999999,"info: info, service: service, corporate: ag",remove_classification
+justmusic.de,Electronics & Technology,0.95,0.8,"info: info, corporate: ag, Date/year in title",remove_classification
+juwelier-becker.com,Electronics & Technology,0.3919730769230769,0.6,"info: info, corporate: ag",remove_classification
+kabellose-ladegeraete.de,Electronics & Technology,0.95,1.0,"blog: blog, portal: liste, URL pattern: /blog/",remove_classification
+kamelienshop24.de,Home & Garden,0.4676,0.6,"blog: news, info: info",remove_classification
+kamera-fotohaus.de,Electronics & Technology,0.8270161290322581,1.0,"blog: artikel, info: info, review: bewertung, corporate: ag",remove_classification
+katalog2020.mobauplus.de,Fashion & Apparel,0.3093681818181818,0.5,"corporate: ag, Date/year in title",remove_classification
+kaufberatungen.net,Electronics & Technology,0.5035042553191489,0.8999999999999999,"comparison: test, review: bewertung, service: beratung",remove_classification
+kaufda.de,Home & Garden,0.6677097982708933,0.6,"corporate: ag, Multiple negative keywords (2)",remove_classification
+kelkoo.de,Electronics & Technology,0.7601531545741324,0.8999999999999999,"info: info, comparison: vergleich, corporate: ag",remove_classification
+kita.de,Electronics & Technology,0.6081546052631578,0.8999999999999999,"comparison: vergleich, corporate: ag, Multiple negative keywords (2)",remove_classification
+kka-branchenbuch.de,Books & Media,0.3147234741784037,0.6,"corporate: ag, Multiple negative keywords (2)",remove_classification
+klarna.com,Electronics & Technology,0.7893617021276595,1.0,"blog: blog, forum: board, info: info, comparison: vergleich, review: bewertung, service: service, corporate: ag, portal: liste, Multiple negative keywords (5), Date/year in title",remove_classification
+kleinanzeigen.de,Electronics & Technology,0.7556866952789699,1.0,"blog: blog, forum: board, info: info, comparison: vergleich, review: rating, service: service, corporate: ag, portal: portal, Multiple negative keywords (6), Date/year in title",remove_classification
+konicaminolta.de,General Marketplace,0.5,1.0,"blog: blog, comparison: compare, service: service, corporate: ag",remove_classification
+kontaktlinsen-vergleichen.de,General Marketplace,0.3,0.6,"comparison: vergleich, portal: liste",remove_classification
+krueger-gartentechnik.de,Electronics & Technology,0.4345117647058822,0.6,"review: bewertung, corporate: ag",remove_classification
+kueche1a.com,General Marketplace,0.7666666666666666,0.6,"blog: artikel, corporate: ag",remove_classification
+kueche1a.eu,Home & Garden,0.3611260869565217,0.6,"blog: artikel, corporate: gmbh",remove_classification
+kuechen-atlas.de,Fashion & Apparel,0.6,1.0,"blog: artikel, review: bewertung, corporate: gmbh, portal: portal",remove_classification
+kulturcantina.de,Home & Garden,0.7552851182197496,1.0,"blog: magazine, forum: forum, info: info, comparison: vergleich, review: review, service: service, corporate: ag, Multiple negative keywords (4)",remove_classification
+kunden.stahlgruber.de,Beauty & Health,0.2214999999999999,0.5,"corporate: gmbh, Date/year in title",remove_classification
+kvbawue.de,Books & Media,0.3171642857142857,0.6,"info: info, corporate: ag",remove_classification
+landratsamt-unterallgaeu.de,Fashion & Apparel,0.3919730769230769,0.8,"corporate: ag, portal: verzeichnis, Date/year in title",remove_classification
+landwirt.com,Electronics & Technology,0.5524741258741258,0.8999999999999999,"service: service, corporate: gmbh, portal: liste",remove_classification
+laubsauger.de,General Marketplace,0.3,0.8,"comparison: vergleich, corporate: ag, Date/year in title",remove_classification
+leadadventureforum.com,General Marketplace,0.3,0.6,"forum: forum, corporate: ag",remove_classification
+ledvance.de,Electronics & Technology,0.3580368421052631,0.8999999999999999,"info: info, service: beratung, portal: portal",remove_classification
+lensbuyersguide.com,Electronics & Technology,0.2723461538461538,0.6,"info: guide, review: bewertung",remove_classification
+lensdealer.com,Beauty & Health,0.54475,0.6,"corporate: ag, Multiple negative keywords (2)",remove_classification
+lescha-atika.de,Fashion & Apparel,0.2672558823529412,0.6,"blog: artikel, corporate: gmbh",remove_classification
+lg.com,Electronics & Technology,0.6811508474576271,0.8999999999999999,"info: info, corporate: ag, Multiple negative keywords (2)",remove_classification
+libble.de,Electronics & Technology,0.7948795180722891,1.0,"info: info, comparison: test, corporate: ag, portal: verzeichnis, Multiple negative keywords (3), Date/year in title",remove_classification
+libble.eu,General Marketplace,0.7666666666666666,1.0,"forum: forum, review: rating, service: service, corporate: ag, Multiple negative keywords (3)",remove_classification
+library.imaging.org,General Marketplace,0.8,0.8,"corporate: ag, Non-commercial TLD",remove_classification
+life-sciences-france.com,General Marketplace,0.3,0.7,"blog: news, URL pattern: /news/",remove_classification
+like-online.de,Sports & Outdoors,0.3171642857142857,0.6,"blog: artikel, portal: verzeichnis",remove_classification
+limora.com,Fashion & Apparel,0.3400499999999999,0.8999999999999999,"corporate: ag, portal: liste, Multiple negative keywords (2)",remove_classification
+linertreff.com,Fashion & Apparel,0.2746944444444444,0.6,"forum: board, corporate: ag",remove_classification
+linguee.de,Electronics & Technology,0.7559502664298401,1.0,"info: guide, comparison: comparison, review: review, service: service, corporate: gmbh, Multiple negative keywords (4)",remove_classification
+linseoo.de,Beauty & Health,0.4169545454545454,0.6,"blog: artikel, corporate: ag",remove_classification
+lipinski-telekom.de,Electronics & Technology,0.4094423076923076,0.6,"blog: artikel, portal: liste",remove_classification
+lists.suse.com,Electronics & Technology,0.4345117647058822,0.5,"corporate: ag, Date/year in title",remove_classification
+locanto.de,Home & Garden,0.6,0.8999999999999999,"blog: artikel, service: beratung, corporate: ag",remove_classification
+logicinaction.org,General Marketplace,0.3,0.5,Non-commercial TLD,remove_classification
+lomography.com,General Marketplace,0.8,0.8999999999999999,"blog: magazine, review: review, corporate: ag",remove_classification
+look4optics.de,General Marketplace,0.7666666666666666,1.0,"blog: artikel, service: service, corporate: gmbh, URL pattern: /firma/, Date/year in title",remove_classification
+ludwigmeister.de,Fashion & Apparel,0.3017521276595745,1.0,"blog: news, info: info, service: service, corporate: ag, Date/year in title",remove_classification
+luetje-akustik.de,Beauty & Health,0.4688443396226415,0.6,"corporate: ag, Multiple negative keywords (2)",remove_classification
+luminalpark.com,Food & Grocery,0.3919730769230769,0.6,"review: review, corporate: ag",remove_classification
+luxion.de,Electronics & Technology,0.5,0.8999999999999999,"comparison: vergleich, corporate: ag, portal: liste",remove_classification
+lyrikline.org,General Marketplace,0.3,0.8,"corporate: ag, Non-commercial TLD",remove_classification
+m.autoteileprofi.de,Fashion & Apparel,0.5,0.8999999999999999,"blog: artikel, corporate: ag, Multiple negative keywords (2)",remove_classification
+m.gsmarena.com,Electronics & Technology,0.6,1.0,"forum: board, comparison: compare, review: review, corporate: ag",remove_classification
+machineryline.info,Electronics & Technology,0.8094576923076923,1.0,"blog: artikel, info: info, comparison: compare, corporate: gmbh",remove_classification
+makant-europe.de,Electronics & Technology,0.5035042553191489,0.6,"info: info, corporate: ag",remove_classification
+manuall.de,General Marketplace,0.7666666666666666,1.0,"review: bewertung, corporate: ag, portal: liste, Multiple negative keywords (2), Date/year in title",remove_classification
+manualmachine.com,Electronics & Technology,0.807142857142857,1.0,"info: info, comparison: test, review: rating, service: service, corporate: ag, Multiple negative keywords (3), Date/year in title",remove_classification
+manuals.konicaminolta.eu,Books & Media,0.20525,0.8999999999999999,"info: guide, corporate: ag, Multiple negative keywords (2)",remove_classification
+manualscat.com,Electronics & Technology,0.6802307197943445,0.8999999999999999,"corporate: gmbh, portal: verzeichnis, Multiple negative keywords (3)",remove_classification
+manualslib.de,Electronics & Technology,0.7604703247480402,1.0,"blog: artikel, info: info, comparison: test, service: service, corporate: ag, portal: verzeichnis, Multiple negative keywords (5), Date/year in title",remove_classification
+maritimusboote.de,General Marketplace,0.8,0.8,"service: service, corporate: ag, Date/year in title",remove_classification
+markt.de,Electronics & Technology,0.8252371916508539,0.8999999999999999,"forum: board, corporate: ag, Multiple negative keywords (3)",remove_classification
+marquardt-kuechen.de,Home & Garden,0.4365965517241379,0.6,"info: info, service: service",remove_classification
+massinger-ulm.de,Fashion & Apparel,0.3679511627906976,0.8999999999999999,"blog: artikel, info: info, corporate: ag",remove_classification
+maxcom.de,Electronics & Technology,0.6,1.0,"info: info, comparison: vergleich, corporate: gmbh, portal: liste",remove_classification
+mediarep.org,General Marketplace,0.6333333333333333,1.0,"info: info, corporate: ag, portal: portal, Multiple negative keywords (2), Non-commercial TLD",remove_classification
+medicalexpo.de,Electronics & Technology,0.7558461538461538,1.0,"blog: artikel, info: info, service: service, corporate: ag",remove_classification
+megaprimus.de,Sports & Outdoors,0.3661655737704917,0.8999999999999999,"blog: artikel, info: info, corporate: ag",remove_classification
+mein-deal.com,Electronics & Technology,0.8115951742627345,1.0,"blog: blog, comparison: vergleich, review: bewertung, corporate: ag, portal: liste, Multiple negative keywords (4)",remove_classification
+mein-mmo.de,Electronics & Technology,0.95,1.0,"blog: news, comparison: vergleich, review: bewertung, corporate: ag, Date/year in title",remove_classification
+mein-reifen-guru.de,General Marketplace,0.3,0.6,"corporate: ag, portal: liste",remove_classification
+meistervergleich.de,Electronics & Technology,0.7822568852059468,1.0,"comparison: vergleich, review: bewertung, corporate: ag, portal: verzeichnis, Date/year in title",remove_classification
+meniconamerica.com,General Marketplace,0.3,1.0,"blog: news, corporate: ag, URL pattern: /news/",remove_classification
+meta-preisvergleich.de,Electronics & Technology,0.5,0.8999999999999999,"info: info, comparison: vergleich, corporate: gmbh",remove_classification
+metabo.com,Electronics & Technology,0.4345117647058822,1.0,"forum: board, info: guide, service: service, corporate: ag",remove_classification
+metacomp.de,Electronics & Technology,0.3126739130434782,0.8999999999999999,"info: info, service: beratung, corporate: gmbh",remove_classification
+mezquitadecordoba.org,Home & Garden,0.3180987804878049,1.0,"info: guide, corporate: ag, Non-commercial TLD",remove_classification
+mipuu.de,Electronics & Technology,0.5902363636363636,0.6,"comparison: vergleich, corporate: ag",remove_classification
+misterworker.com,Fashion & Apparel,0.3580368421052631,1.0,"blog: artikel, info: info, corporate: ag, Date/year in title",remove_classification
+ml-computertechnik.de,Electronics & Technology,0.6603662337662337,0.6,"forum: board, corporate: ag",remove_classification
+mode.ladendirekt.de,Fashion & Apparel,0.8968244457759137,0.6,"comparison: vergleich, corporate: ag",remove_classification
+moebel-berning.de,Fashion & Apparel,0.3683352941176471,1.0,"blog: artikel, service: service, corporate: ag, Date/year in title",remove_classification
+moebel-berta.de,Food & Grocery,0.5,0.6,"blog: artikel, corporate: ag",remove_classification
+moebel-und-garten.de,Home & Garden,0.8218749999999999,1.0,"blog: artikel, forum: board, comparison: test, corporate: gmbh",remove_classification
+moebelhaus-bohn.de,Home & Garden,0.34475,0.6,"blog: artikel, corporate: gmbh",remove_classification
+monsterdealz.de,Electronics & Technology,0.7829326923076922,1.0,"blog: artikel, info: info, comparison: vergleich, corporate: ag, Multiple negative keywords (3), Date/year in title",remove_classification
+mr-survival.com,Sports & Outdoors,0.3063333333333333,0.5,"comparison: vergleich, Date/year in title",remove_classification
+musikland-online.de,Electronics & Technology,0.5415148514851484,1.0,"blog: artikel, info: info, comparison: test, corporate: ag",remove_classification
+musikus-hifi.de,Electronics & Technology,0.7136090909090909,0.6,"comparison: vergleich, corporate: ag",remove_classification
+musterring.com,General Marketplace,0.3,1.0,"blog: artikel, info: info, service: service, corporate: ag",remove_classification
+mydealz.de,Electronics & Technology,0.95,1.0,"blog: artikel, forum: community, info: info, comparison: vergleich, corporate: ag, Multiple negative keywords (6), Date/year in title",remove_classification
+mysecondear.de,Electronics & Technology,0.6237692307692307,0.8,"review: review, service: service, Date/year in title",remove_classification
+neomounts.de,Electronics & Technology,0.4364342105263158,0.6,"blog: news, corporate: ag",remove_classification
+nerdpart.com,Electronics & Technology,0.3478513513513513,0.8,"forum: board, corporate: ag, Date/year in title",remove_classification
+nerdsheaven.de,Electronics & Technology,0.761215763546798,1.0,"blog: artikel, comparison: test, corporate: ag, Date/year in title",remove_classification
+netzwelt.de,Electronics & Technology,0.95,1.0,"info: info, comparison: vergleich, review: bewertung, corporate: ag, portal: liste, Multiple negative keywords (4), Date/year in title",remove_classification
+nexgam.de,Home & Garden,0.7581497797356828,1.0,"blog: blog, forum: board, info: guide, service: service, corporate: ag, Multiple negative keywords (5), Date/year in title",remove_classification
+nextag.de,Electronics & Technology,0.8219325153374233,1.0,"blog: artikel, comparison: vergleich, service: service, corporate: ag",remove_classification
+nextbatt.de,Electronics & Technology,0.6421943661971831,0.6,"corporate: ag, portal: liste",remove_classification
+nextpit.de,Electronics & Technology,0.8626838235294118,1.0,"info: info, comparison: vergleich, corporate: ag, Date/year in title",remove_classification
+ngkntk.com,Electronics & Technology,0.3229705882352941,0.8999999999999999,"info: info, corporate: gmbh, Multiple negative keywords (3)",remove_classification
+niemann-gartentechnik.de,Electronics & Technology,0.4345117647058822,0.6,"comparison: vergleich, corporate: gmbh",remove_classification
+notebookinfo.de,Electronics & Technology,0.5,0.6,"info: info, comparison: vergleich",remove_classification
+nuessing.de,General Marketplace,0.7666666666666666,0.8999999999999999,"service: service, corporate: ag, portal: liste",remove_classification
+o-byte.com,Fashion & Apparel,0.3400499999999999,0.6,"service: service, corporate: gmbh",remove_classification
+oekotest.de,General Marketplace,0.5,1.0,"comparison: test, service: service, corporate: ag, Date/year in title",remove_classification
+officeb2b.de,Electronics & Technology,0.7666118421052631,1.0,"blog: artikel, forum: board, info: info, service: service, corporate: ag, portal: liste",remove_classification
+oktop.de,Electronics & Technology,0.8106927710843373,1.0,"info: info, comparison: test, review: bewertung, corporate: ag, portal: verzeichnis, Date/year in title",remove_classification
+online-zeichenkurs.de,Books & Media,0.3171642857142857,0.8999999999999999,"blog: blog, comparison: vergleich, review: review",remove_classification
+opel-team-niedersachsen.de,Books & Media,0.3617601846965699,0.5,"corporate: ag, Date/year in title",remove_classification
+opengtindb.org,Fashion & Apparel,0.2708192307692307,1.0,"info: info, review: bewertung, corporate: ag, Non-commercial TLD",remove_classification
+optik-ripken.de,Beauty & Health,0.36075,0.6,"blog: artikel, corporate: gmbh",remove_classification
+oranier.com,Electronics & Technology,0.2855,0.8999999999999999,"info: info, corporate: gmbh, Multiple negative keywords (3)",remove_classification
+osram.com,Electronics & Technology,0.3307696629213483,1.0,"info: info, comparison: comparison, review: rating, corporate: ag",remove_classification
+oticon.de,Fashion & Apparel,0.3408333333333333,0.8999999999999999,"comparison: test, service: beratung, corporate: unternehmen",remove_classification
+page-online.de,Books & Media,0.3478513513513513,0.8,"blog: artikel, corporate: ag, Date/year in title",remove_classification
+panarchy.org,General Marketplace,0.8,1.0,"blog: blog, Multiple negative keywords (2), Non-commercial TLD, Date/year in title",remove_classification
+panasonic.com,Electronics & Technology,0.8853937888198756,1.0,"comparison: test, review: bewertung, corporate: ag, portal: liste",remove_classification
+panther-batterien.de,Sports & Outdoors,0.2951153846153846,0.6,"corporate: ag, Multiple negative keywords (2)",remove_classification
+papeleriaplacidogomez.com,General Marketplace,0.3,0.6,"info: info, corporate: ag",remove_classification
+papierstein.de,Home & Garden,0.6570299539170507,0.6,"blog: artikel, corporate: ag",remove_classification
+papyrus-gmbh.de,Electronics & Technology,0.4240142857142857,1.0,"blog: artikel, corporate: gmbh, URL pattern: /artikel/",remove_classification
+paragon-software.com,Fashion & Apparel,0.77271702367531,1.0,"blog: news, forum: forum, info: info, comparison: comparison, review: review, service: service, corporate: ag, portal: portal, Multiple negative keywords (8)",remove_classification
+pcde.nerdpart.com,Electronics & Technology,0.6367045454545454,1.0,"forum: board, corporate: ag, portal: portal, Date/year in title",remove_classification
+pcgames.de,Electronics & Technology,0.9245314485387548,1.0,"blog: artikel, comparison: test, service: beratung, corporate: ag, URL pattern: /news/, Multiple negative keywords (2), Date/year in title",remove_classification
+pcgameshardware.de,Electronics & Technology,0.8559579439252336,1.0,"blog: artikel, forum: board, comparison: vergleich, service: beratung, corporate: ag, portal: liste, URL pattern: /news/, Multiple negative keywords (3), Date/year in title",remove_classification
+pcsupport.lenovo.com,Books & Media,0.248,0.8999999999999999,"forum: board, info: guide, Multiple negative keywords (2)",remove_classification
+pcwelt.de,Electronics & Technology,0.4682042372881355,0.8999999999999999,"blog: artikel, comparison: test, corporate: ag",remove_classification
+penzberg-heute.de,Fashion & Apparel,0.2838,1.0,"blog: artikel, comparison: test, URL pattern: /artikel/",remove_classification
+pfeiffer-vacuum.com,Electronics & Technology,0.2550945945945946,0.8999999999999999,"service: service, portal: portal, Multiple negative keywords (2)",remove_classification
+photografix-magazin.de,Electronics & Technology,0.3900605633802817,0.8,"blog: artikel, corporate: ag, Date/year in title",remove_classification
+photoscrubs.com,Electronics & Technology,0.3017521276595745,1.0,"blog: news, comparison: vergleich, review: bewertung, corporate: ag",remove_classification
+phq.muddasheep.com,Fashion & Apparel,0.7754817987152034,1.0,"blog: blog, forum: board, info: wiki, comparison: test, review: review, corporate: ag, portal: liste, Multiple negative keywords (3), Date/year in title",remove_classification
+pik-potsdam.de,Fashion & Apparel,0.5035042553191489,0.6,"comparison: comparison, Multiple negative keywords (2)",remove_classification
+pixelwerker.de,Fashion & Apparel,0.1954230769230769,1.0,"blog: artikel, forum: board, comparison: vergleich, corporate: ag",remove_classification
+plana.de,Fashion & Apparel,0.2575,0.6,"comparison: test, review: bewertung",remove_classification
+planungswelten.de,Home & Garden,0.8154251445086703,0.6,"blog: artikel, corporate: ag",remove_classification
+plus.rtl.de,Fashion & Apparel,0.1723552631578947,0.6,"blog: journal, corporate: ag",remove_classification
+pocketnavigation.de,Sports & Outdoors,0.6134846715328467,0.8,"comparison: vergleich, corporate: ag, Date/year in title",remove_classification
+pontec.com,Books & Media,0.3668976923076923,0.5,"service: service, Date/year in title",remove_classification
+possling.de,Home & Garden,0.3249438356164383,1.0,"blog: artikel, info: info, corporate: ag, portal: liste",remove_classification
+preis-king.com,Fashion & Apparel,0.5004593406593406,1.0,"comparison: vergleich, review: bewertung, corporate: ag, portal: verzeichnis",remove_classification
+preis.de,Electronics & Technology,0.7826337880377754,1.0,"blog: artikel, forum: board, info: info, comparison: vergleich, review: review, service: service, corporate: gmbh, Multiple negative keywords (3), Date/year in title",remove_classification
+preisgenau.de,Electronics & Technology,0.95,0.8999999999999999,"comparison: vergleich, corporate: ag, Multiple negative keywords (2)",remove_classification
+preispiraten.de,Electronics & Technology,0.5858920353982301,0.6,"comparison: vergleich, corporate: gmbh",remove_classification
+preisvergleich.techstage.de,Electronics & Technology,0.8788256227758007,1.0,"comparison: vergleich, review: bewertung, corporate: ag, portal: liste, Date/year in title",remove_classification
+presseportal.bunte.de,General Marketplace,0.3,0.6,"info: guide, portal: portal",remove_classification
+presseportal.de,General Marketplace,0.8,1.0,"blog: news, info: info, comparison: vergleich, review: bewertung, service: service, corporate: gmbh, portal: portal, Multiple negative keywords (2), Date/year in title",remove_classification
+probusiness-aktuell.de,Beauty & Health,0.4869122641509433,0.6,"info: info, corporate: ag",remove_classification
+procaseshop.de,General Marketplace,0.3,0.6,"corporate: ag, portal: liste",remove_classification
+produktimdetail.de,Electronics & Technology,0.7588541666666666,1.0,"comparison: vergleich, review: bewertung, service: service, corporate: ag, Multiple negative keywords (2)",remove_classification
+profifoto.de,Electronics & Technology,0.5,0.6,"comparison: test, corporate: ag",remove_classification
+projektoren-datenbank.com,Electronics & Technology,0.5944079831932773,1.0,"blog: artikel, comparison: vergleich, review: bewertung, corporate: ag",remove_classification
+prospektangebote.de,Electronics & Technology,0.772289156626506,1.0,"corporate: ag, portal: liste, Multiple negative keywords (3), Date/year in title",remove_classification
+publikationen.dguv.de,General Marketplace,0.3,0.8,"corporate: ag, Multiple negative keywords (2), Date/year in title",remove_classification
+purovivo.de,Home & Garden,0.8252711496746203,0.8999999999999999,"forum: board, service: service, corporate: ag",remove_classification
+q-holz.de,Fashion & Apparel,0.5,0.6,"corporate: gmbh, Multiple negative keywords (2)",remove_classification
+racing-planet.de,Sports & Outdoors,0.5035042553191489,0.6,"blog: artikel, corporate: ag",remove_classification
+radfahren.de,Books & Media,0.4125005617977527,1.0,"comparison: test, service: beratung, corporate: ag, Date/year in title",remove_classification
+radwell.de,General Marketplace,0.8,0.8999999999999999,"blog: artikel, service: service, corporate: ag",remove_classification
+raimundmaschinen.de,Electronics & Technology,0.5,0.6,"review: bewertung, corporate: ag",remove_classification
+rasenduenger.de,General Marketplace,0.3,0.4,URL pattern: /faq/,remove_classification
+ratgeber.pcgameshardware.de,Electronics & Technology,0.5,1.0,"comparison: test, service: beratung, corporate: ag, portal: liste",remove_classification
+readthedocs.vinczejanos.info,Electronics & Technology,0.3919730769230769,0.8999999999999999,"blog: blog, info: info, corporate: ag",remove_classification
+rebuy.de,Electronics & Technology,0.95,1.0,"blog: artikel, forum: board, info: info, comparison: test, corporate: ag, Multiple negative keywords (2), Date/year in title",remove_classification
+reeswinkel-breckerfeld.de,Electronics & Technology,0.4345117647058822,0.6,"review: bewertung, corporate: ag",remove_classification
+refill24-shop.com,Electronics & Technology,0.6151320754716981,1.0,"blog: artikel, info: info, comparison: vergleich, corporate: ag",remove_classification
+rehadat-gkv.de,Fashion & Apparel,0.16775,1.0,"info: info, service: service, corporate: gmbh, portal: verzeichnis, Date/year in title",remove_classification
+reifen-vor-ort.de,General Marketplace,0.3,0.6,"service: service, corporate: ag",remove_classification
+reifen.de,Sports & Outdoors,0.29505,1.0,"blog: artikel, comparison: vergleich, review: bewertung, corporate: ag, portal: liste",remove_classification
+reiter-dachau.de,General Marketplace,0.3,0.6,"blog: artikel, corporate: ag",remove_classification
+rendl.com.de,General Marketplace,0.3,0.6,"info: info, corporate: ag",remove_classification
+rental-portal.com,Home & Garden,0.2448214285714285,0.6,"corporate: ag, portal: portal",remove_classification
+rp-online.de,General Marketplace,0.6333333333333333,1.0,"blog: artikel, forum: forum, comparison: test, review: rating, service: service, corporate: ag, Multiple negative keywords (3), Date/year in title",remove_classification
+rtl.de,Fashion & Apparel,0.6536092968381311,1.0,"info: info, comparison: vergleich, service: beratung, corporate: ag, Multiple negative keywords (2), Date/year in title",remove_classification
+rutten.de,Electronics & Technology,0.3804285714285714,0.6,"service: service, corporate: ag",remove_classification
+rvk.uni-regensburg.de,Books & Media,0.6488023255813954,0.8999999999999999,"info: info, comparison: vergleich, corporate: ag",remove_classification
+sb-innovation.de,Fashion & Apparel,0.6603960835509137,1.0,"blog: news, info: info, comparison: test, service: service, corporate: gmbh, Multiple negative keywords (8)",remove_classification
+scheid-gmbh.de,Fashion & Apparel,0.263993661971831,1.0,"blog: artikel, comparison: vergleich, corporate: gmbh, portal: liste",remove_classification
+scheldt24.de,Home & Garden,0.3498384615384615,1.0,"blog: artikel, info: info, service: service, corporate: ag",remove_classification
+schmiedetechnik-sued.de,Fashion & Apparel,0.95,0.6,"review: bewertung, corporate: ag",remove_classification
+schnaeppchenfuchs.com,Electronics & Technology,0.8189979123173278,1.0,"info: info, comparison: vergleich, review: bewertung, corporate: ag",remove_classification
+schneckenhof.de,General Marketplace,0.8,1.0,"blog: magazine, info: info, corporate: ag, Multiple negative keywords (6)",remove_classification
+schneiderpen.com,Home & Garden,0.3679511627906976,1.0,"blog: journal, review: bewertung, corporate: gmbh, Date/year in title",remove_classification
+scholar.google.de,Electronics & Technology,0.4059318181818181,0.6,"blog: journal, corporate: ag",remove_classification
+schottenland.de,Electronics & Technology,0.8074498567335243,0.8999999999999999,"comparison: vergleich, review: bewertung, corporate: ag",remove_classification
+schulstart.de,Fashion & Apparel,0.2542760869565217,0.6,"blog: artikel, service: service",remove_classification
+schwarzwaldkind.de,Fashion & Apparel,0.4085521739130434,0.8999999999999999,"blog: artikel, review: bewertung, corporate: ag",remove_classification
+sellerforum.de,Sports & Outdoors,0.2022499999999999,0.8,"forum: forum, portal: portal, Date/year in title",remove_classification
+sello24.de,Electronics & Technology,0.6,0.6,"blog: artikel, corporate: ag",remove_classification
+service.braun.com,General Marketplace,0.3,0.6,"info: info, service: service",remove_classification
+services.milwaukeetool.eu,Electronics & Technology,0.2260833333333333,0.6,"info: info, service: service",remove_classification
+sg-akustik.de,Electronics & Technology,0.7369857142857142,1.0,"blog: artikel, info: info, service: service, corporate: ag, Date/year in title",remove_classification
+sgi-network.org,General Marketplace,0.3,0.7,"Non-commercial TLD, Date/year in title",remove_classification
+shop.euras.com,Food & Grocery,0.3551367346938775,0.6,"blog: artikel, corporate: ag",remove_classification
+shop.kohinoordeutschland.de,Books & Media,0.3171642857142857,0.6,"blog: artikel, corporate: gmbh",remove_classification
+shop.llg.de,Fashion & Apparel,0.2746944444444444,0.6,"blog: artikel, corporate: ag",remove_classification
+shop.pbs-alka.de,Fashion & Apparel,0.5,0.8,"forum: board, corporate: ag, Date/year in title",remove_classification
+shop.profec-ventus.com,Electronics & Technology,0.189625,0.6,"corporate: ag, Multiple negative keywords (2)",remove_classification
+shop.solidpro.de,Electronics & Technology,0.4084612903225806,0.6,"service: service, corporate: ag",remove_classification
+shop.strato.de,General Marketplace,0.7666666666666666,0.6,"blog: artikel, corporate: ag",remove_classification
+shop.thomann.biz,Home & Garden,0.2260833333333333,0.6,"blog: artikel, corporate: gmbh",remove_classification
+sicherheitsschuhetests.de,Fashion & Apparel,0.2448214285714285,0.5,"comparison: vergleich, Date/year in title",remove_classification
+simons-ratschlag.de,Electronics & Technology,0.95,0.8999999999999999,"comparison: vergleich, review: bewertung, corporate: gmbh",remove_classification
+slideplayer.com,General Marketplace,0.8,1.0,"forum: board, info: guide, comparison: test, service: service, corporate: ag, Multiple negative keywords (3), Date/year in title",remove_classification
+slideplayer.org,General Marketplace,0.7666666666666666,1.0,"service: dienstleistung, corporate: ag, Non-commercial TLD, Date/year in title",remove_classification
+smarthomeassistent.de,Electronics & Technology,0.4505639534883721,1.0,"blog: news, comparison: vergleich, URL pattern: /news/",remove_classification
+smartlab.org,Home & Garden,0.19125,0.8,"corporate: ag, Non-commercial TLD",remove_classification
+snipz.de,Electronics & Technology,0.8416309012875536,1.0,"blog: artikel, comparison: vergleich, review: bewertung, corporate: ag",remove_classification
+softec.wiwi.uni-due.de,Electronics & Technology,0.2746944444444444,0.6,"comparison: vergleich, corporate: ag",remove_classification
+solutions.vwdservices.com,General Marketplace,0.7,1.0,"comparison: compare, service: service, corporate: ag, Date/year in title",remove_classification
+soprema.de,Beauty & Health,0.4520550847457627,0.6,"info: info, corporate: ag",remove_classification
+sorotec.de,Fashion & Apparel,0.2448214285714285,0.6,"info: info, corporate: ag",remove_classification
+spiegel.de,Electronics & Technology,0.8022727272727272,1.0,"comparison: vergleich, corporate: ag, portal: portal, Multiple negative keywords (2)",remove_classification
+sport.bild.de,Sports & Outdoors,0.3408333333333333,0.6,"info: info, corporate: ag",remove_classification
+springermedizin.de,Beauty & Health,0.5,1.0,"blog: artikel, info: info, comparison: compare, corporate: ag, Multiple negative keywords (3), Date/year in title",remove_classification
+ssd-tester.de,Electronics & Technology,0.4529499999999999,0.5,"comparison: vergleich, Date/year in title",remove_classification
+stadt-bremerhaven.de,Electronics & Technology,0.95,1.0,"blog: artikel, info: guide, comparison: test, corporate: ag, Date/year in title",remove_classification
+stahlgruber.de,Home & Garden,0.2746944444444444,0.6,"service: service, corporate: gmbh",remove_classification
+staples.de,Home & Garden,0.5320049407114624,0.8999999999999999,"info: info, review: bewertung, corporate: ag",remove_classification
+startools.de,Fashion & Apparel,0.4240142857142857,0.6,"info: info, corporate: ag",remove_classification
+stepstone.de,General Marketplace,0.8,1.0,"comparison: test, service: service, corporate: gmbh, Date/year in title",remove_classification
+stereo.de,Electronics & Technology,0.5746315028901734,1.0,"blog: artikel, forum: forum, comparison: test, corporate: ag, URL pattern: /artikel/, Multiple negative keywords (2), Date/year in title",remove_classification
+stern.de,Electronics & Technology,0.8072976878612717,1.0,"blog: news, forum: board, info: info, comparison: vergleich, service: beratung, corporate: ag, Multiple negative keywords (4), Date/year in title",remove_classification
+stewes.de,General Marketplace,0.7666666666666666,0.6,"blog: artikel, corporate: ag",remove_classification
+strassenbauportal.de,Electronics & Technology,0.2893571428571428,0.8999999999999999,"info: info, corporate: gmbh, portal: portal",remove_classification
+strawpoll.com,Electronics & Technology,0.6853850100603621,1.0,"forum: board, info: tutorial, comparison: vergleich, review: bewertung, corporate: ag, Multiple negative keywords (3), Date/year in title",remove_classification
+striebig.com,General Marketplace,0.3,0.6,"info: guide, Multiple negative keywords (2)",remove_classification
+sudhaustinte.de,Electronics & Technology,0.3025603448275862,0.6,"blog: artikel, corporate: ag",remove_classification
+sueddeutsche.de,General Marketplace,0.5,1.0,"blog: news, comparison: vergleich, corporate: ag, portal: portal",remove_classification
+sunglassesandpeonies.com,Beauty & Health,0.2746944444444444,0.6,"blog: blog, corporate: about",remove_classification
+support-nl.panasonic.eu,Electronics & Technology,0.3029166666666666,0.8999999999999999,"info: info, service: service, corporate: ag",remove_classification
+swissbiotech.org,Electronics & Technology,0.2260833333333333,1.0,"corporate: ag, portal: directory, Non-commercial TLD",remove_classification
+swp.de,Sports & Outdoors,0.4021930232558139,0.6,"comparison: test, portal: portal",remove_classification
+sz-media.sueddeutsche.de,Fashion & Apparel,0.6151320754716981,0.6,"corporate: ag, Multiple negative keywords (2)",remove_classification
+t-online.de,Electronics & Technology,0.95,1.0,"blog: news, comparison: test, corporate: ag, Multiple negative keywords (3), Date/year in title",remove_classification
+taddicken.de,Fashion & Apparel,0.3611260869565217,0.8,"blog: artikel, corporate: ag, Date/year in title",remove_classification
+taunus-nachrichten.de,Home & Garden,0.3567941176470588,1.0,"blog: artikel, info: info, corporate: ag, Multiple negative keywords (3), Date/year in title",remove_classification
+team-it-systemhaus.de,Electronics & Technology,0.7028202127659574,0.8999999999999999,"forum: board, corporate: ag, Multiple negative keywords (2)",remove_classification
+techstage.de,Electronics & Technology,0.95,1.0,"blog: artikel, comparison: vergleich, review: bewertung, service: service, corporate: ag, Multiple negative keywords (3), Date/year in title",remove_classification
+techtest.org,Electronics & Technology,0.7408631578947368,1.0,"blog: artikel, comparison: vergleich, corporate: ag, Non-commercial TLD",remove_classification
+teilehaber.de,Home & Garden,0.3313949152542372,0.6,"comparison: vergleich, corporate: ag",remove_classification
+teilerenner.de,Sports & Outdoors,0.2838,1.0,"blog: artikel, review: bewertung, corporate: ag, URL pattern: /artikel/",remove_classification
+tel-da.com,Electronics & Technology,0.5081666666666667,0.6,"blog: artikel, service: service",remove_classification
+telekomhilft.telekom.de,Electronics & Technology,0.4279230769230769,0.8999999999999999,"forum: community, info: info, corporate: ag",remove_classification
+testberichte.de,Electronics & Technology,0.7785665058580289,1.0,"blog: artikel, forum: board, info: info, comparison: vergleich, review: bewertung, service: service, corporate: gmbh, portal: portal, Multiple negative keywords (7), Date/year in title",remove_classification
+testsieger.de,Electronics & Technology,0.774067853543836,1.0,"blog: artikel, forum: board, info: info, comparison: vergleich, review: bewertung, service: service, corporate: ag, portal: portal, Multiple negative keywords (3), Date/year in title",remove_classification
+teufelnet.de,Books & Media,0.3919730769230769,0.8999999999999999,"service: service, corporate: ag, Multiple negative keywords (2)",remove_classification
+thekingsworld.de,Books & Media,0.2448214285714285,0.8999999999999999,"blog: news, corporate: ag, Multiple negative keywords (2)",remove_classification
+throm-shop.com,General Marketplace,0.3,0.6,"blog: artikel, corporate: ag",remove_classification
+tirendo.de,Fashion & Apparel,0.3171642857142857,0.6,"blog: artikel, corporate: ag",remove_classification
+tk-tec.de,General Marketplace,0.3,0.6,"blog: artikel, corporate: ag",remove_classification
+tonerlieferant24.de,Electronics & Technology,0.4017615384615384,1.0,"blog: news, info: info, service: service, corporate: ag",remove_classification
+toolbrothers.com,Home & Garden,0.6802307197943445,1.0,"blog: blog, forum: board, info: info, comparison: vergleich, review: review, service: service, corporate: ag, portal: liste, Multiple negative keywords (2), Date/year in title",remove_classification
+topratgeber24.de,Home & Garden,0.6435727272727272,1.0,"blog: artikel, comparison: vergleich, corporate: ag, portal: liste, Multiple negative keywords (3), Date/year in title",remove_classification
+toptechnews.de,Electronics & Technology,0.6,1.0,"blog: news, info: tutorial, comparison: test, review: review, corporate: ag, Multiple negative keywords (2), Date/year in title",remove_classification
+trac.edgewall.org,General Marketplace,0.8,1.0,"blog: blog, service: service, corporate: ag, Non-commercial TLD",remove_classification
+transaudiovideo.com,Electronics & Technology,0.36075,1.0,"blog: news, URL pattern: /news/, Multiple negative keywords (2)",remove_classification
+transport-online.de,Books & Media,0.3804285714285714,1.0,"blog: news, info: info, URL pattern: /news/, Multiple negative keywords (2)",remove_classification
+traumflieger.de,General Marketplace,0.7666666666666666,0.8999999999999999,"comparison: vergleich, service: beratung, corporate: ag",remove_classification
+tripadvisor.de,General Marketplace,0.8,1.0,"comparison: vergleich, review: review, corporate: ag, Multiple negative keywords (2), Date/year in title",remove_classification
+trojaner-board.de,Sports & Outdoors,0.7829979879275654,1.0,"blog: blog, forum: forum, info: info, comparison: test, corporate: ag, Multiple negative keywords (6)",remove_classification
+tropentag.de,General Marketplace,0.3,0.5,"corporate: ag, Date/year in title",remove_classification
+tunero.de,General Marketplace,0.3,0.8999999999999999,"blog: artikel, service: service, corporate: ag",remove_classification
+tvfacts.de,Electronics & Technology,0.5585,0.6,"comparison: vergleich, corporate: ag",remove_classification
+tvpro-online.de,Books & Media,0.20525,0.6,"corporate: ag, portal: portal",remove_classification
+ufp.de,Electronics & Technology,0.6591225490196079,0.8999999999999999,"blog: artikel, info: info, corporate: ag",remove_classification
+uhrenarmbandshop.de,General Marketplace,0.7666666666666666,0.6,"info: info, corporate: ag",remove_classification
+ul.qucosa.de,Fashion & Apparel,0.5987157549234136,0.6,"comparison: comparison, corporate: gmbh",remove_classification
+ulm.de,Books & Media,0.4578843925233644,0.5,"Multiple negative keywords (2), Date/year in title",remove_classification
+umarex-laserliner.de,Fashion & Apparel,0.2746944444444444,0.6,"blog: artikel, corporate: unternehmen",remove_classification
+used-stage-equipment.com,Electronics & Technology,0.6321792035398229,0.8999999999999999,"blog: artikel, info: guide, corporate: ag",remove_classification
+vaterzeiten.de,Fashion & Apparel,0.4311361386138613,0.8,"comparison: test, corporate: ag, Date/year in title",remove_classification
+vehikit.com,Fashion & Apparel,0.3229705882352941,0.5,"comparison: vergleich, Date/year in title",remove_classification
+vergleich.org,Electronics & Technology,0.797452229299363,1.0,"forum: board, comparison: vergleich, review: bewertung, service: beratung, corporate: ag, portal: portal, Non-commercial TLD, Date/year in title",remove_classification
+vergleichsportal.de,Sports & Outdoors,0.20525,0.8,"comparison: vergleich, portal: portal, Date/year in title",remove_classification
+vitac.de,General Marketplace,0.3,0.6,"service: dienstleistung, corporate: ag",remove_classification
+vivedo.net,Home & Garden,0.4607857142857142,0.7,"blog: artikel, URL pattern: /artikel/",remove_classification
+vonovia.de,Electronics & Technology,0.2448214285714285,0.6,"service: service, corporate: ag",remove_classification
+vulco.biz,Books & Media,0.3171642857142857,0.8,"corporate: ag, portal: liste, Date/year in title",remove_classification
+w-i-gmbh.de,Electronics & Technology,0.3171642857142857,0.6,"blog: artikel, corporate: gmbh",remove_classification
+wagner-greenbase.de,Home & Garden,0.5,0.8999999999999999,"comparison: vergleich, service: service, corporate: ag",remove_classification
+waschtrockner.net,Fashion & Apparel,0.4828121951219511,0.5,"comparison: test, Date/year in title",remove_classification
+watchtime.net,Sports & Outdoors,0.3801831168831169,0.8999999999999999,"blog: artikel, comparison: test, corporate: ag",remove_classification
+wayfair.de,Home & Garden,0.95,1.0,"blog: artikel, forum: board, comparison: test, review: bewertung, corporate: gmbh, portal: liste",remove_classification
+webshop.schachermayer.com,Food & Grocery,0.5,0.8999999999999999,"blog: artikel, corporate: ag, portal: liste",remove_classification
+welches-hoergeraet.de,Fashion & Apparel,0.4494548387096774,1.0,"blog: news, service: service, corporate: ag, Multiple negative keywords (3)",remove_classification
+welt.de,Electronics & Technology,0.8154781199351702,1.0,"blog: news, forum: board, comparison: vergleich, corporate: ag, Multiple negative keywords (5), Date/year in title",remove_classification
+weltderangebote.de,General Marketplace,0.8,1.0,"blog: blog, comparison: vergleich, corporate: ag, portal: portal, Date/year in title",remove_classification
+wentronic.com,Electronics & Technology,0.5159508196721312,1.0,"blog: artikel, corporate: ag, portal: liste, Date/year in title",remove_classification
+werbemittel24.com,General Marketplace,0.5,0.6,"blog: artikel, corporate: ag",remove_classification
+werktuigen.com,General Marketplace,0.8,0.6,"info: info, corporate: gmbh",remove_classification
+werkzeugemagazin.de,Books & Media,0.36075,0.8,"comparison: vergleich, corporate: ag, Date/year in title",remove_classification
+werkzeugfundgrube.de,Home & Garden,0.3025603448275862,0.6,"blog: artikel, corporate: ag",remove_classification
+werkzeughero.de,Electronics & Technology,0.5,1.0,"blog: artikel, corporate: ag, portal: liste, Date/year in title",remove_classification
+weser-kurier.de,Books & Media,0.5136882233502538,0.6,"info: info, corporate: ag",remove_classification
+whoffice.de,General Marketplace,0.8,0.6,"blog: artikel, corporate: ag",remove_classification
+whudat.de,General Marketplace,0.3,0.5,"corporate: ag, Date/year in title",remove_classification
+wiesner-gartentechnik.de,Electronics & Technology,0.5,0.8999999999999999,"info: info, review: bewertung, corporate: ag",remove_classification
+wietholt.de,General Marketplace,0.7666666666666666,1.0,"blog: artikel, info: info, service: beratung, corporate: ag, portal: liste",remove_classification
+wiley-vch.de,Home & Garden,0.263993661971831,1.0,"blog: news, info: info, corporate: gmbh, Multiple negative keywords (2), Date/year in title",remove_classification
+windeln.de,Home & Garden,0.3142070422535211,0.6,"comparison: vergleich, corporate: ag",remove_classification
+winfuture.de,Electronics & Technology,0.8412466843501326,1.0,"blog: news, forum: board, comparison: vergleich, corporate: ag, Multiple negative keywords (2), Date/year in title",remove_classification
+wirkaufens.de,Electronics & Technology,0.8674107142857143,0.6,"review: review, corporate: ag",remove_classification
+witte-hemme.de,Electronics & Technology,0.4345117647058822,0.6,"review: bewertung, corporate: ag",remove_classification
+wiwi-treff.de,Home & Garden,0.36075,0.6,"forum: forum, corporate: ag",remove_classification
+wlw.de,Electronics & Technology,0.7534339285714285,1.0,"blog: artikel, comparison: vergleich, service: service, corporate: gmbh",remove_classification
+wsb-battery.de,Electronics & Technology,0.4416384615384615,0.8999999999999999,"blog: artikel, forum: board, corporate: gmbh",remove_classification
+x-ways.net,Electronics & Technology,0.2022499999999999,0.6,"corporate: ag, portal: directory",remove_classification
+xn--backfen-d1a.org,Sports & Outdoors,0.3171642857142857,1.0,"comparison: vergleich, corporate: ag, Non-commercial TLD, Date/year in title",remove_classification
+xn--obbo-brobedarf-lsb.de,Beauty & Health,0.6491385026737968,1.0,"blog: artikel, forum: board, service: service, corporate: ag, portal: liste",remove_classification
+zdnet.de,Electronics & Technology,0.37925,0.6,"blog: news, corporate: ag",remove_classification
+zeit.de,Electronics & Technology,0.2460707547169811,1.0,"blog: artikel, comparison: test, corporate: ag, Multiple negative keywords (2)",remove_classification
+zoxs.de,Electronics & Technology,0.8570945945945946,1.0,"blog: artikel, forum: board, comparison: test, corporate: ag, Date/year in title",remove_classification
